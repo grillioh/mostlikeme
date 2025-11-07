@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+.next/
+.env
+.env.local
+.DS_Store
+
+# Build output
+out/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel/
+
+# Misc
+*.log
